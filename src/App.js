@@ -8,10 +8,10 @@ function App() {
     <>
       <Routes>
         <Route path="/Megha.ai" element={<Layout />} />
-        <Route path="/login" element={<Login />} />
-        <Route path="/contact" element={<Contact />} />
+        <Route path="/Megha.ai/login" element={<Login />} />
+        <Route path="/Megha.ai/contact" element={<Contact />} />
         {/*The products page takes you back to the page with all the cards as it is a dummy page. */}
-        <Route path="/products" element={<Layout />} />
+        <Route path="/Megha.ai/products" element={<Layout />} />
       </Routes>
     </>
   );

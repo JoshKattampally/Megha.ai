@@ -21,7 +21,7 @@ const Sidebar = () => (
         exact="true"
         activeClassName="active"
         className="login-link"
-        to="/login"
+        to="/Megha.ai/login"
       >
         <FontAwesomeIcon icon={faUser}></FontAwesomeIcon>
       </NavLink>
@@ -29,7 +29,7 @@ const Sidebar = () => (
         exact="true"
         activeClassName="active"
         className="contact-link"
-        to="/contact"
+        to="/Megha.ai/contact"
       >
         <FontAwesomeIcon icon={faEnvelope}></FontAwesomeIcon>
       </NavLink>
@@ -37,7 +37,7 @@ const Sidebar = () => (
         exact="true"
         activeClassName="active"
         className="products-link"
-        to="/products"
+        to="/Megha.ai/products"
       >
         <FontAwesomeIcon icon={faStore}></FontAwesomeIcon>
       </NavLink>
