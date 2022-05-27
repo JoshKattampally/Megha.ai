@@ -4,7 +4,7 @@ import "./index.scss";
 
 function contact() {
   return (
-    <div className="page">
+    <>
       <Sidebar />
       <div className="about">
         <h1>About Us</h1>
@@ -26,7 +26,7 @@ function contact() {
           <br />
         </p>
       </div>
-    </div>
+    </>
   );
 }
 
