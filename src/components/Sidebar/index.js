@@ -10,11 +10,11 @@ import {
 } from "@fortawesome/free-solid-svg-icons";
 const Sidebar = () => (
   <div className="nav-bar">
-    <Link className="logo" to="/">
+    <Link className="logo" to="/Megha.ai">
       <img src={LogoS} alt="Logo" />
     </Link>
     <nav>
-      <NavLink exact="true" activeClassName="active" to="/">
+      <NavLink exact="true" activeClassName="active" to="/Megha.ai">
         <FontAwesomeIcon icon={faHome}></FontAwesomeIcon>
       </NavLink>
       <NavLink
