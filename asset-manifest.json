@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Megha.ai/static/css/main.1961dd90.css",
+    "main.js": "/Megha.ai/static/js/main.eaf3f0e1.js",
+    "static/js/787.47bc7d8d.chunk.js": "/Megha.ai/static/js/787.47bc7d8d.chunk.js",
+    "static/media/MeghaLogo.png": "/Megha.ai/static/media/MeghaLogo.d2f0c8059556ec19054a.png",
+    "static/media/helvetica-neu.ttf": "/Megha.ai/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/Megha.ai/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff2",
+    "static/media/CoolveticaRg-Regular.woff2": "/Megha.ai/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff2",
+    "index.html": "/Megha.ai/index.html",
+    "main.1961dd90.css.map": "/Megha.ai/static/css/main.1961dd90.css.map",
+    "main.eaf3f0e1.js.map": "/Megha.ai/static/js/main.eaf3f0e1.js.map",
+    "787.47bc7d8d.chunk.js.map": "/Megha.ai/static/js/787.47bc7d8d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1961dd90.css",
+    "static/js/main.eaf3f0e1.js"
+  ]
+}
