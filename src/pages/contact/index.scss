@@ -1,0 +1,37 @@
+.about {
+  h1 {
+    font-size: 50px;
+    color: #ffd700;
+  }
+  color: white;
+  font-size: 20px;
+  padding-left: 200px;
+  padding-right: 80px;
+  top: 400px;
+  margin: 0 auto;
+  max-width: 1500px;
+  display: absolute;
+  font-family: sans-serif;
+  padding-top: 30px;
+  text-align: center;
+  transform: translateY(150%);
+}
+
+.contact {
+  h1 {
+    font-size: 50px;
+    color: #ffd700;
+  }
+  text-align: center;
+  color: white;
+  font-size: 20px;
+  padding-left: 200px;
+  padding-right: 80px;
+  margin: 0 auto;
+  max-width: 1500px;
+  display: absolute;
+  transform: translateY(150%);
+  gap: 20px;
+  font-family: sans-serif;
+  padding-bottom: 30px;
+}

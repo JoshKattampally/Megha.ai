@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "title": "Data Ingestion",
+    "imageUrl": "images/data-ingestion.png",
+    "description": "A data ingestion pipeline may simply send data to an application or messaging system, or store ingested data in a data lake or cloud object storage for use in relational and NoSQL databases or data warehouses.",
+    "tag": "X"
+  },
+  {
+    "id": 2,
+    "title": "Lift and Shift",
+    "imageUrl": "images/lift-and-shift.png",
+    "description": "Lift and shift is a strategy for moving an application or operation from one environment to another without stopping to redesign the app or operations workflow.",
+    "tag": "X"
+  },
+  {
+    "id": 3,
+    "title": "MLOps",
+    "imageUrl": "images/MLOps.png",
+    "description": "MLOps is a core function of Machine Learning engineering, focused on streamlining the process of taking machine learning models to production, and then maintaining and monitoring them.",
+    "tag": "X"
+  },
+  {
+    "id": 4,
+    "title": "Infrastructure as Code",
+    "imageUrl": "images/Infrastructure.png",
+    "description": "Infrastructure as Code (IaC) is the managing and provisioning of infrastructure through code instead of through manual processes. With IaC, configuration files are created that contain your infrastructure specifications, which makes it easier to edit and distribute configurations.",
+    "tag": "X"
+  },
+  {
+    "id": 5,
+    "title": "Feature Engineering",
+    "imageUrl": "images/Feature.png",
+    "description": "Feature engineering is the process of selecting, manipulating, and transforming raw data into features that can be used in supervised learning. In order to make machine learning work well on new tasks, it might be necessary to design and train better features",
+    "tag": "Y"
+  },
+  {
+    "id": 6,
+    "title": "ELT",
+    "imageUrl": "images/ELT.png",
+    "description": "Extract, load, transform is an alternative to extract, transform, load used with data lake implementations. In contrast to ETL, in ELT models the data is not transformed on entry to the data lake, but stored in its original raw format. This enables faster loading times.",
+    "tag": "Y"
+  },
+
+  {
+    "id": 7,
+    "title": "ETL",
+    "imageUrl": "images/ETL.png",
+    "description": "In computing, extract, transform, load is a three-phase process where data is first extracted then transformed and finally loaded into an output data container. The data can be collated from one or more sources and it can also be outputted to one or more destinations.",
+    "tag": "Y"
+  },
+  {
+    "id": 8,
+    "title": "Finance Domain",
+    "imageUrl": "images/Finance.png",
+    "description": "Finance Domain” term is generally used to refer to the skills and jobs that fall under the finance industry or financial services. There is a potential source of confusion regarding what we refer to with the term Finance Domain.",
+    "tag": "Y"
+  },
+  {
+    "id": 9,
+    "title": "Retail Domain",
+    "imageUrl": "images/retail.png",
+    "description": "The Retail Domain is the set of classes that represent the business objects used by Point-of-Service. Typical domain classes are Customer, Transaction, and Tender. The Retail Domain is a set of business logic components that implement retail-oriented business functionality in Point-of-Service.",
+    "tag": "Y"
+  }
+]
