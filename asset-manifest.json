@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.1b33307b.css",
-    "main.js": "/static/js/main.6bc2d0ef.js",
-    "static/js/787.47bc7d8d.chunk.js": "/static/js/787.47bc7d8d.chunk.js",
-    "static/media/MeghaLogo.png": "/static/media/MeghaLogo.d2f0c8059556ec19054a.png",
-    "static/media/helvetica-neu.ttf": "/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
-    "static/media/LaBelleAurore.woff2": "/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff2",
-    "static/media/CoolveticaRg-Regular.woff2": "/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff2",
-    "index.html": "/index.html",
-    "main.1b33307b.css.map": "/static/css/main.1b33307b.css.map",
-    "main.6bc2d0ef.js.map": "/static/js/main.6bc2d0ef.js.map",
-    "787.47bc7d8d.chunk.js.map": "/static/js/787.47bc7d8d.chunk.js.map"
+    "main.css": "/Megha.ai/static/css/main.1961dd90.css",
+    "main.js": "/Megha.ai/static/js/main.54bcacd3.js",
+    "static/js/787.47bc7d8d.chunk.js": "/Megha.ai/static/js/787.47bc7d8d.chunk.js",
+    "static/media/MeghaLogo.png": "/Megha.ai/static/media/MeghaLogo.d2f0c8059556ec19054a.png",
+    "static/media/helvetica-neu.ttf": "/Megha.ai/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/Megha.ai/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff2",
+    "static/media/CoolveticaRg-Regular.woff2": "/Megha.ai/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff2",
+    "index.html": "/Megha.ai/index.html",
+    "main.1961dd90.css.map": "/Megha.ai/static/css/main.1961dd90.css.map",
+    "main.54bcacd3.js.map": "/Megha.ai/static/js/main.54bcacd3.js.map",
+    "787.47bc7d8d.chunk.js.map": "/Megha.ai/static/js/787.47bc7d8d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b33307b.css",
-    "static/js/main.6bc2d0ef.js"
+    "static/css/main.1961dd90.css",
+    "static/js/main.54bcacd3.js"
   ]
 }
