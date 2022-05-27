@@ -14,7 +14,7 @@ const Sidebar = () => (
       <img src={LogoS} alt="Logo" />
     </Link>
     <nav>
-      <NavLink activeClassName="active" exact to="/Megha.ai">
+      <NavLink activeClassName="active" exact to="/Megha.ai/">
         <FontAwesomeIcon icon={faHome}></FontAwesomeIcon>
       </NavLink>
       <NavLink
